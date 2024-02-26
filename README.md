@@ -1,7 +1,7 @@
 # Análise de Dados da Biblioteca - #7DaysOfCode
 [![Language](https://img.shields.io/badge/language-Python-blue.svg)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow.svg)](https://github.com/santannaflaercio/library-lending-insights)
-[![Tools](https://img.shields.io/badge/tools-Jupyter%20Notebook%2C%20Pandas%2C%20Matplotlib%2C%20Seaborn-brightgreen.svg)](https://github.com/santannaflaercio/library-lending-insights)
+[![Tools](https://img.shields.io/badge/tools-Jupyter%20Notebook%2C%20Pandas%2C%20Matplotlib%2C%20Seaborn-orange.svg)](https://github.com/santannaflaercio/library-lending-insights)
 
 
 ### Sobre o Projeto
